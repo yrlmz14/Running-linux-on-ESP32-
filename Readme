@@ -9,3 +9,5 @@ esptool.py --chip esp32s3 --port /dev/ttyUSB0 --baud 921600 before default_reset
   0x480000 rootfs.cramfs
 
 !!!CHANGE THE /dev/ttyUSB0 TO COM(NUMBER HERE) IN WINDOWS!!!!
+
+THE USERNAME IS ROOT!
